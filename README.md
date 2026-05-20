@@ -20,7 +20,7 @@
 
 ```yaml
 name        : Vishnu Bhargav
-role        : AI Engineer Intern @ CloudLex | Building Scalable AI Infrastructure
+role        : AI Engineer @ CloudLex | Building Scalable AI Infrastructure
 education   : IIIT Jabalpur — B.Tech CSE (Class of '26)
 focus       : Agentic AI · Distributed Systems · Startup Engineering
 current_work: Architecting production-grade multi-agent systems, LLM evals, & observability pipelines
