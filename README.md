@@ -9,7 +9,7 @@
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/bhargavzz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://medium.com/@vishnubhargavsitra"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><a href="mailto:vishnubhargavsitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><img src="https://komarev.com/ghpvc/?username=Bhargavzz&label=views&color=24283b&style=for-the-badge&labelColor=1a1b26"/>
+  <a href="https://www.linkedin.com/in/bhargavzz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://medium.com/@vishnubhargavsitra"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><a href="mailto:vishnubhargavsitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
 </div>
